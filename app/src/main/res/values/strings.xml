@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dark Mirror</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="answer_maybe">Maybe</string>
+    <string name="answer_definitely_yes">Definitely Yes!</string>
+    <string name="answer_definitely_not">Absolutely Not!</string>
+    <string name="mirror">Mirror Image</string>
+    <string name="intro">Ask a &quot;yes or no&quot; question and tap or shake device for answer</string>
+</resources>

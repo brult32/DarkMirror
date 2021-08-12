@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dark Mirror</string>
+    <string name="answer_yes">Sim</string>
+    <string name="answer_no">Não</string>
+    <string name="answer_maybe">Talvez</string>
+    <string name="answer_definitely_yes">Com Certeza!</string>
+    <string name="answer_definitely_not">Claro que NÃO!</string>
+    <string name="mirror">Mirror Image</string>
+    <string name="intro">Faça uma pergunta tipo &quot;sim ou não&quot; e toque ou agite o aparelho para resposta</string>
+</resources>
